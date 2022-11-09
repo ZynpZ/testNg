@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="class calistirma">
+    <test name="class calistirma">
+        <classes>
+            <class name="tests.day14_dependsOnMethods_softAssert.C03_SortAssert">
+
+            </class>
+        </classes>
+    </test>
+</suite>
+
+
+
+
+
+
+
+
+

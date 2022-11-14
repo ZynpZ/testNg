@@ -24,7 +24,8 @@ public class MyCoursedemyPage {
     // @FindBy(xpath = "//*[text()='Accept']") ////a[text()='Accept']
     // public WebElement cerezleriKabulEt;
 
-    @FindBy(xpath = "//button[text()='Login']")
+    //@FindBy(xpath = "//button[text()='Login']")
+    @FindBy(xpath = "(//button[@type='submit'])[1]")
     public WebElement loginButonu;
 
 }
